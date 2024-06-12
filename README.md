@@ -1,1 +1,2 @@
-# SGG-Benchmark
+Our SGG ToolKit, encompassing x OBD methods and x SGG methods, designed to accommodate OBD and SGG in large-size VHR SAI. The toolkit unifies the SGG process in natural imagery and SAI, offering flexibility and ease of use. Our toolkit will soon be open source.
+Paper link, Web link: [RSG](https://linlin-dev.github.io/project/RSG.html).
