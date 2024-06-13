@@ -74,10 +74,10 @@ If you find this work helpful for your research, please consider giving this rep
 
 ```bibtex
 @article{li2024scene,
-  title={Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach},
-  author={Li, Yansheng and Wang, Linlin and Wang, Tingzhu and Yang, Xue and Luo, Junwei and Wang, Qi and Wang, Wenbin and Deng, Youming and Sun, Xian and Li, Haifeng and Dang, Bo and Zhang, Yongjun and Yan Junchi},
-  journal={arXiv preprint arXiv:},
-  year={2024}}
+    title={Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach},
+    author={Li, Yansheng and Wang, Linlin and Wang, Tingzhu and Yang, Xue and Luo, Junwei and Wang, Qi and Deng, Youming and Wang, Wenbin and Sun, Xian and Li, Haifeng and Dang, Bo and Zhang, Yongjun and Yu, Yi and Yan Junchi},
+    journal={arXiv preprint arXiv:},
+    year={2024}}
 
 @article{luo2024sky,
   title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
