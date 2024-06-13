@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Zhuzi24/SGG-ToolKit/graphs/commit-activity)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Zhuzi24/SGG-ToolKit)
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Zhuzi24/SGG-ToolKit?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Zhuzi24/SGG-ToolKit?style=social">
 
 # Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach
 
