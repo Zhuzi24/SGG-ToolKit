@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Zhuzi24/SGG-ToolKit/graphs/commit-activity)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Zhuzi24/SGG-ToolKit)
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Zhuzi24/SGG-ToolKit?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Zhuzi24/SGG-ToolKit?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Zhuzi24/SGG-ToolKit?style=social">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social">
 
 # Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach
 
@@ -9,9 +9,9 @@ The official implementation of the paper "[Scene Graph Generation in Large-Size 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.06.13 :fire::fire::fire:
 
-- **2024.06.13**: Update project.
+📆 [**2024-06-13**] : Update project.
 
-## ⭐️ Highlights
+## 🚀🚀🚀 Highlights
 
 We construct RSG, the first large-scale dataset for scene graph generation in large-size VHR SAI. Containing  more than  `210,000` objects and over `400,000` triplets for SGG in large-size VHR SAI.
 
@@ -19,9 +19,16 @@ We construct RSG, the first large-scale dataset for scene graph generation in la
 <img src="demo/distr.jpg" alt="scatter" width="98%"/> 
 </p>
 
-https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4
+<details>
+  <summary>Click to view Demo</summary>
+  <video width="100%" height="100%" controls loop autoplay>
+    <source src="demo/demo2.mp4" type="video/mp4">
+  </video>
+</details>
 
-Illustration of Scene graph generation(SGG) in large-size VHR SAI. Black arrows denote semantic relationships whose prediction only depends on isolated pairs, but red arrows denote semantic relationships that should be inferred with the aid of contexts.
+
+
+
 
 ## 📌 Abstract
 
@@ -36,7 +43,10 @@ Check [INSTALL.md](INSTALL.md) for installation instructions.
 Check [DATASET.md](DATASET.md) for instructions of dataset preprocessing.
 
 ## 🚀 Metrics and Results
-Explanation of metrics in our toolkit and reported results for OBD and SGG are given in [METRICS.md](METRICS.md). If you are only involved in OBB/HBB object detection, you can refer to [RSG-MMRotate](https://github.com/yangxue0827/RSG-MMRotate) and [RSG-MMDetection](https://github.com/Zhuzi24/RSG-MMDetection).
+Explanation of metrics in our toolkit and reported results for OBD and SGG are given in [METRICS.md](METRICS.md). 
+
+## 🚀 Object Detection
+If you are only involved in OBB/HBB object detection, you can refer to [RSG-MMRotate](https://github.com/yangxue0827/RSG-MMRotate) and [RSG-MMDetection](https://github.com/Zhuzi24/RSG-MMDetection).
 
 <!-- ### Oriented Object Detection
 
