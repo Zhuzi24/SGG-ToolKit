@@ -77,15 +77,13 @@ If you find this work helpful for your research, please consider giving this rep
   title={Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach},
   author={Li, Yansheng and Wang, Linlin and Wang, Tingzhu and Yang, Xue and Luo, Junwei and Wang, Qi and Wang, Wenbin and Deng, Youming and Sun, Xian and Li, Haifeng and Dang, Bo and Zhang, Yongjun and Yan Junchi},
   journal={arXiv preprint arXiv:},
-  year={2024}
+  year={2024}}
 
 @article{luo2024sky,
   title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
   author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
   journal={arXiv preprint arXiv:},
-  year={2024}
-
-}
+  year={2024}}
 ```
 ## Acknowledgment
 Our code is based on [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch), [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMRotate](https://github.com/open-mmlab/mmrotate), we sincerely thank them.
