@@ -20,7 +20,7 @@ We construct RSG, the first large-scale dataset for scene graph generation in la
 </p>
 
 https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4
-
+Illustration of Scene graph generation(SGG) in large-size VHR SAI. Black arrows denote semantic relationships whose prediction only depends on isolated pairs, but red arrows denote semantic relationships that should be inferred with the aid of contexts.
 
 ## 📌 Abstract
 
