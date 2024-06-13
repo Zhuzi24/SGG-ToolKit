@@ -21,10 +21,7 @@ We construct RSG, the first large-scale dataset for scene graph generation in la
 
 <details>
   <summary>Click to view Demo</summary>
-  https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4
-  <video width="100%" height="100%" controls loop autoplay>
-    <source src="demo/demo2.mp4" type="video/mp4">
-  </video>
+  [![](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 </details>
 
 
