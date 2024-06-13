@@ -90,7 +90,7 @@ If you find this work helpful for your research, please consider giving this rep
   author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
   journal={arXiv preprint arXiv:},
   year={2024}
-}
+
 }
 ```
 ## Acknowledgment
