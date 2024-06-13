@@ -20,13 +20,7 @@ We construct RSG, the first large-scale dataset for scene graph generation in la
 <img src="demo/distr.jpg" alt="scatter" width="98%"/> 
 </p>
 
-<details>
-  <summary>Click to view Demo</summary>
-  <video width="100%" height="100%" controls loop autoplay>
-    <source src="demo/demo2.mp4" type="video/mp4">
-  </video>
-</details>
-
+https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4
 
 
 
