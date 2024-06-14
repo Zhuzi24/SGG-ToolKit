@@ -8,9 +8,13 @@
 The official implementation of the paper "[Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach](https://arxiv.org/abs/2406.09410)".
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024-06-13 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024-06-14 :fire::fire::fire:
+
+📆 [**2024-06-14**] : Our paper is available open on arxiv, [click here](https://arxiv.org/abs/2406.09410) to go to it!
 
 📆 [**2024-06-13**] : Update project.
+
+Our paper is available open on arxiv, click here to go to it!
 
 ## 🚀🚀🚀 Highlights
 
