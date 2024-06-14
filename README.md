@@ -5,7 +5,7 @@
 
 <h1 style="text-align: center;">Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach</h1>
 
-The official implementation of the paper "[Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach](https://arxiv.org/abs/)".
+The official implementation of the paper "[Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach](https://arxiv.org/abs/2406.09410)".
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024-06-13 :fire::fire::fire:
@@ -76,14 +76,24 @@ If you find this work helpful for your research, please consider giving this rep
 @article{li2024scene,
     title={Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach},
     author={Li, Yansheng and Wang, Linlin and Wang, Tingzhu and Yang, Xue and Luo, Junwei and Wang, Qi and Deng, Youming and Wang, Wenbin and Sun, Xian and Li, Haifeng and Dang, Bo and Zhang, Yongjun and Yu, Yi and Yan Junchi},
-    journal={arXiv preprint arXiv:},
+    journal={arXiv preprint arXiv:2406.09410},
     year={2024}}
 
 @article{luo2024sky,
-  title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
-  author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
-  journal={arXiv preprint arXiv:},
-  year={2024}}
+    title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
+    author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
+    journal={arXiv preprint arXiv:},
+    year={2024}}
+
+@article{li2024learning,
+    title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
+    author={Li, Yansheng and Luo, Junwei and Zhang, Yongjun and Tan, Yihua and Yu, Jin-Gang and Bai, Song},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    volume={44},
+    number={11},
+    pages={7778--7796},
+    year={2024},
+    publisher={IEEE}}
 ```
 ## Acknowledgment
 Our code is based on [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch), [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMRotate](https://github.com/open-mmlab/mmrotate), we sincerely thank them.
