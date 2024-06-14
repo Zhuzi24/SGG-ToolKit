@@ -14,7 +14,6 @@ The official implementation of the paper "[Scene Graph Generation in Large-Size 
 
 📆 [**2024-06-13**] : Update project.
 
-Our paper is available open on arxiv, click here to go to it!
 
 ## 🚀🚀🚀 Highlights
 
