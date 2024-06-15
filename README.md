@@ -32,7 +32,7 @@ https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-89
 
 Scene graph generation (SGG) in satellite imagery (SAI) benefits promoting intelligent understanding of geospatial scenarios from perception to cognition. In SAI, objects exhibit great variations in scales and aspect ratios, and there exist rich relationships between objects (even between spatially disjoint objects), which makes it necessary to holistically conduct SGG in large-size very-high-resolution (VHR) SAI. However, the lack of SGG datasets with large-size VHR SAI has constrained the advancement of SGG in SAI. Due to the complexity of large-size VHR SAI, mining triplets <subject, relationship, object> in large-size VHR SAI heavily relies on long-range contextual reasoning. Consequently, SGG models designed for small-size natural imagery are not directly applicable to large-size VHR SAI. To address the scarcity of datasets, this paper constructs <b>a large-scale dataset for SGG in large-size VHR SAI</b> with image sizes ranging from <b>512 × 768</b> to <b>27,860 × 31,096</b> pixels, named <b>RSG</b>, encompassing over <b>210,000</b> objects and more than <b>400,000</b> triplets. To realize SGG in large-size VHR SAI, we propose a <b>context-aware cascade cognition (CAC) framework</b> to understand SAI at three levels: object detection (OBD), pair pruning and relationship prediction. As a fundamental prerequisite for SGG in large-size SAI, a <b>holistic multi-class object detection network (HOD-Net)</b> that can flexibly integrate multi-scale contexts is proposed. With the consideration that there exist a huge amount of object pairs in large-size SAI but only a minority of object pairs contain meaningful relationships, we design a <b>pair proposal generation (PPG) network</b> via adversarial reconstruction to select high-value pairs. Furthermore, a <b>relationship prediction network with context-aware messaging (RPCM)</b> is proposed to predict the relationship types of these pairs. To promote the development of SGG in large-size VHR SAI, this paper releases a <b>SAI-oriented SGG toolkit</b> with about <b>30</b> OBD methods and <b>10</b> SGG methods, and develops a benchmark based on RSG where our HOD-Net and RPCM significantly outperform the state-of-the-art methods in both OBD and SGG tasks. **The RSG dataset will be made publicly available at [RSG](https://linlin-dev.github.io/project/RSG.html)**.
 
-## 💡Overview of ToolBox
+## 📝 Overview of ToolBox
 <p align="center">
 <img src="demo/box.jpg" alt="scatter" width="98%"/> 
 </p>
@@ -40,13 +40,13 @@ Scene graph generation (SGG) in satellite imagery (SAI) benefits promoting intel
 ## 🛠️ Installation
 Check [INSTALL.md](INSTALL.md) for installation instructions.
 
-## 🚀 Dataset
+## 🔖 Dataset
 Check [DATASET.md](DATASET.md) for instructions of dataset preprocessing.
 
-## 🚀 Metrics and Results
+## ✏️ Metrics and Results
 Explanation of metrics in our toolkit and reported results for OBD and SGG are given in [METRICS.md](METRICS.md). 
 
-## 🚀 Object Detection
+## ✒️ Object Detection
 If you are only involved in OBB/HBB object detection, you can refer to [RSG-MMRotate](https://github.com/yangxue0827/RSG-MMRotate) and [RSG-MMDetection](https://github.com/Zhuzi24/RSG-MMDetection).
 
 <!-- ### Oriented Object Detection
