@@ -14,6 +14,11 @@ The official implementation of the paper "[Scene Graph Generation in Large-Size 
 
 📆 [**2024-06-13**] : Update project.
 
+<!-- ## 📋 TODO List  
+- [x] Release RSG dataset.
+- [x] Release train and test codes for SGG, including HBB and OBB forms.  
+- [x] Release prompts and codes for training the model with Visual Genome caption dataset
+- [x] Release enhanced scene graph datasets of Visual Genome caption -->
 
 ## 🚀🚀🚀 Highlights
 
