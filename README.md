@@ -14,12 +14,6 @@ The official implementation of the paper "[Scene Graph Generation in Large-Size 
 
 📆 [**2024-06-13**] : Update project.
 
-<!-- ## 📋 TODO List  
-- [x] Release RSG dataset.
-- [x] Release train and test codes for SGG, including HBB and OBB forms.  
-- [x] Release prompts and codes for training the model with Visual Genome caption dataset
-- [x] Release enhanced scene graph datasets of Visual Genome caption -->
-
 ## 🚀🚀🚀 Highlights
 
 We construct RSG, the first large-scale dataset for scene graph generation in large-size VHR SAI. Containing  more than  `210,000` objects and over `400,000` triplets for SGG in large-size VHR SAI.
