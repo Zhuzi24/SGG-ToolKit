@@ -32,7 +32,7 @@ Scene graph generation (SGG) in satellite imagery (SAI) benefits promoting under
 
 ## 📝 Overview of ToolBox
 <p align="center">
-<img src="demo/box.jpg" alt="scatter" width="98%"/> 
+<img src="demo/toolbox.jpg" alt="scatter" width="98%"/> 
 </p>
 
 ## 🛠️ Installation
