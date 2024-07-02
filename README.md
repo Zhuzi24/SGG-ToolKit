@@ -5,7 +5,7 @@
 
 <h1 style="text-align: center;">A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery</h1>
 
-The official implementation of the paper "[Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach](https://arxiv.org/abs/2406.09410)".
+The official implementation of the paper "A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery".
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024-06-14 :fire::fire::fire:
