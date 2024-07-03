@@ -22,7 +22,7 @@ We construct STAR, the first large-scale dataset for scene graph generation in l
 <img src="demo/distr.jpg" alt="scatter" width="98%"/> 
 </p>
 
-https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4
+[https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4](https://private-user-images.githubusercontent.com/29257168/345304070-0d1b8726-5a46-4182-95b9-bc70a050e49b.mp4)
 
 
 
