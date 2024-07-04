@@ -9,6 +9,7 @@ The official implementation of the paper "SART: A First-Ever Dataset and A Large
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024-07-04 :fire::fire::fire:
+
 📆 [**2024-07-04**] : Update paper on arxiv, see [click here](https://arxiv.org/abs/2406.09410)
 
 📆 [**2024-06-14**] : Our paper is available open on arxiv, [click here](https://arxiv.org/abs/2406.09410) to go to it!
