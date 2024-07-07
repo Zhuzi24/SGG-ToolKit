@@ -92,10 +92,10 @@ If you find this work helpful for your research, please consider giving this rep
     year={2024}}
 
 @article{li2024aug,
-	title={AUG: A New Dataset and An Efficient Model for Aerial Image Urban Scene Graph Generation},
-	author={Li, Yansheng and Li, Kun and Zhang, Yongjun and Wang, Linlin and Zhang, Dingwen},
-	journal={arXiv preprint arXiv:2404.07788},
-	year={2024}}
+    title={AUG: A New Dataset and An Efficient Model for Aerial Image Urban Scene Graph Generation},
+    author={Li, Yansheng and Li, Kun and Zhang, Yongjun and Wang, Linlin and Zhang, Dingwen},
+    journal={arXiv preprint arXiv:2404.07788},
+    year={2024}}
 
 @article{li2024learning,
     title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
@@ -108,20 +108,20 @@ If you find this work helpful for your research, please consider giving this rep
     publisher={IEEE}}
 
 @inproceedings{deng2022hierarchical,
-	title={Hierarchical Memory Learning for Fine-grained Scene Graph Generation},
-	author={Deng, Youming and Li, Yansheng and Zhang, Yongjun and Xiang, Xiang and Wang, Jian and Chen, Jingdong and Ma, Jiayi},
-	booktitle={European Conference on Computer Vision},
-	pages={266--283},
-	year={2022},
-	organization={Springer}}
+    title={Hierarchical Memory Learning for Fine-grained Scene Graph Generation},
+    author={Deng, Youming and Li, Yansheng and Zhang, Yongjun and Xiang, Xiang and Wang, Jian and Chen, Jingdong and Ma, Jiayi},
+    booktitle={European Conference on Computer Vision},
+    pages={266--283},
+    year={2022},
+    organization={Springer}}
 
 @inproceedings{,
-	title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
-	author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, xin and Wang, Wenbin},
-	booktitle={European Conference on Computer Vision},
-	pages={-----},
-	year={2024},
-	organization={Springer} }
+    title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
+    author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, xin and Wang, Wenbin},
+    booktitle={European Conference on Computer Vision},
+    pages={-----},
+    year={2024},
+    organization={Springer} }
 
 ```
 ## Acknowledgment
