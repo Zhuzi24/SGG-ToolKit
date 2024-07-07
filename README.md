@@ -117,7 +117,7 @@ If you find this work helpful for your research, please consider giving this rep
 
 @inproceedings{
     title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
-    author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, xin and Wang, Wenbin},
+    author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin},
     booktitle={European Conference on Computer Vision},
     pages={-----},
     year={2024},
