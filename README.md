@@ -95,8 +95,7 @@ If you find this work helpful for your research, please consider giving this rep
 	title={AUG: A New Dataset and An Efficient Model for Aerial Image Urban Scene Graph Generation},
 	author={Li, Yansheng and Li, Kun and Zhang, Yongjun and Wang, Linlin and Zhang, Dingwen},
 	journal={arXiv preprint arXiv:2404.07788},
-	year={2024}
-	  }
+	year={2024}}
 
 @article{li2024learning,
     title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
@@ -114,8 +113,7 @@ If you find this work helpful for your research, please consider giving this rep
 	booktitle={European Conference on Computer Vision},
 	pages={266--283},
 	year={2022},
-	organization={Springer}
-	}
+	organization={Springer}}
 
 @inproceedings{,
 	title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
