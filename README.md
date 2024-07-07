@@ -108,7 +108,7 @@ If you find this work helpful for your research, please consider giving this rep
     publisher={IEEE}}
 
 @inproceedings{deng2022hierarchical,
-	title={Hierarchical memory learning for fine-grained scene graph generation},
+M	title={Hierarchical Memory Learning for Fine-grained Scene Graph Generation},
 	author={Deng, Youming and Li, Yansheng and Zhang, Yongjun and Xiang, Xiang and Wang, Jian and Chen, Jingdong and Ma, Jiayi},
 	booktitle={European Conference on Computer Vision},
 	pages={266--283},
