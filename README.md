@@ -76,7 +76,7 @@ If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMR
 
 ## 🖊️ Citation
 
-If you find this work helpful for your research, please consider giving this repo a star ⭐ and citing our paper:
+If you find this work helpful for your research, please consider giving this repo a star ⭐ and citing our papers:
 
 ```bibtex
 @article{li2024scene,
@@ -121,7 +121,7 @@ If you find this work helpful for your research, please consider giving this rep
     booktitle={European Conference on Computer Vision},
     pages={-----},
     year={2024},
-    organization={Springer} }
+    organization={Springer}}
 
 ```
 ## Acknowledgment
