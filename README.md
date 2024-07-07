@@ -91,6 +91,13 @@ If you find this work helpful for your research, please consider giving this rep
     journal={arXiv preprint arXiv:2406.10100},
     year={2024}}
 
+@article{li2024aug,
+	title={AUG: A New Dataset and An Efficient Model for Aerial Image Urban Scene Graph Generation},
+	author={Li, Yansheng and Li, Kun and Zhang, Yongjun and Wang, Linlin and Zhang, Dingwen},
+	journal={arXiv preprint arXiv:2404.07788},
+	year={2024}
+	  }
+
 @article{li2024learning,
     title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
     author={Li, Yansheng and Luo, Junwei and Zhang, Yongjun and Tan, Yihua and Yu, Jin-Gang and Bai, Song},
@@ -100,6 +107,24 @@ If you find this work helpful for your research, please consider giving this rep
     pages={7778--7796},
     year={2024},
     publisher={IEEE}}
+
+@inproceedings{deng2022hierarchical,
+	title={Hierarchical memory learning for fine-grained scene graph generation},
+	author={Deng, Youming and Li, Yansheng and Zhang, Yongjun and Xiang, Xiang and Wang, Jian and Chen, Jingdong and Ma, Jiayi},
+	booktitle={European Conference on Computer Vision},
+	pages={266--283},
+	year={2022},
+	organization={Springer}
+	}
+
+@inproceedings{,
+	title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
+	author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, xin and Wang, Wenbin},
+	booktitle={European Conference on Computer Vision},
+	pages={-----},
+	year={2024},
+	organization={Springer} }
+
 ```
 ## Acknowledgment
 Our code is based on [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch), [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMRotate](https://github.com/open-mmlab/mmrotate), we sincerely thank them.
