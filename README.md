@@ -85,17 +85,20 @@ If you find this work helpful for your research, please consider giving this rep
     journal={arXiv preprint arXiv:2406.09410},
     year={2024}}
 
+@inproceedings{
+    title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
+    author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin},
+    booktitle={European Conference on Computer Vision},
+    pages={-----},
+    year={2024},
+    organization={Springer}}
+
 @article{luo2024sky,
     title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
     author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
     journal={arXiv preprint arXiv:2406.10100},
     year={2024}}
 
-@article{li2024aug,
-    title={AUG: A New Dataset and An Efficient Model for Aerial Image Urban Scene Graph Generation},
-    author={Li, Yansheng and Li, Kun and Zhang, Yongjun and Wang, Linlin and Zhang, Dingwen},
-    journal={arXiv preprint arXiv:2404.07788},
-    year={2024}}
 
 @article{li2024learning,
     title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
@@ -115,13 +118,6 @@ If you find this work helpful for your research, please consider giving this rep
     year={2022},
     organization={Springer}}
 
-@inproceedings{
-    title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
-    author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin},
-    booktitle={European Conference on Computer Vision},
-    pages={-----},
-    year={2024},
-    organization={Springer}}
 
 ```
 ## Acknowledgment
