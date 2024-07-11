@@ -129,3 +129,7 @@ Our code is based on [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTa
 <!-- ## 📃 License
 
 This project is released under the [Apache license](LICENSE). Parts of this project contain code and models from other sources, which are subject to their respective licenses. -->
+
+# ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Zhuzi24/SGG-ToolKit&type=Date)](https://star-history.com/#Zuzhi/SGG-ToolKit&Date)
