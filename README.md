@@ -88,8 +88,7 @@ If you find this work helpful for your research, please consider giving this rep
   title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
   author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin},
   journal={arXiv preprint arXiv:2407.19259},
-  year={2024}
-}
+  year={2024}}
 
 @article{luo2024sky,
     title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
