@@ -9,7 +9,7 @@ The official implementation of the paper "STAR: A First-Ever Dataset and A Large
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024-08-05 :fire::fire::fire:
 
-📆 [**2024-08-05**] : We open-source the object detection dataset of STAR, see "Download Links" in https://linlin-dev.github.io/project/STAR.html.
+📆 [**2024-08-05**] : We open-source the object detection dataset and evaluation port of STAR, see "Download Links" in https://linlin-dev.github.io/project/STAR.html.
 
 📆 [**2024-07-04**] : Update paper on arxiv, see [click here](https://arxiv.org/abs/2406.09410)
 
