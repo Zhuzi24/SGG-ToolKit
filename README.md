@@ -7,7 +7,9 @@
 The official implementation of the paper "STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery".
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024-07-04 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024-08-05 :fire::fire::fire:
+
+📆 [**2024-08-05**] : We open-source the object detection dataset of STAR, see "Download Links" in https://linlin-dev.github.io/project/STAR.html.
 
 📆 [**2024-07-04**] : Update paper on arxiv, see [click here](https://arxiv.org/abs/2406.09410)
 
@@ -94,7 +96,6 @@ If you find this work helpful for your research, please consider giving this rep
     author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
     journal={arXiv preprint arXiv:2406.10100},
     year={2024}}
-
 
 @article{li2024learning,
     title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
