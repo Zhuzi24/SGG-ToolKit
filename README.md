@@ -4,7 +4,7 @@
 
 <h1 style="text-align: center;">STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery</h1>
 
-The official implementation of the paper "STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery".
+The official implementation of the paper TPAMI2024-"STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery".
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025-03-05 :fire::fire::fire:
