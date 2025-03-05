@@ -81,25 +81,33 @@ If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMR
 If you find this work helpful for your research, please consider giving this repo a star ⭐ and citing our papers:
 
 ```bibtex
-@article{li2024scene,
-    title={STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery},
-    author={Li, Yansheng and Wang, Linlin and Wang, Tingzhu and Yang, Xue and Luo, Junwei and Wang, Qi and Deng, Youming and Wang, Wenbin and Sun, Xian and Li, Haifeng and Dang, Bo and Zhang, Yongjun and Yu, Yi and Yan Junchi},
-    journal={arXiv preprint arXiv:2406.09410},
-    year={2024}}
+@ARTICLE{STAR,
+  author={Li, Yansheng and Wang, Linlin and Wang, Tingzhu and Yang, Xue and Luo, Junwei and Wang, Qi and Deng, Youming and Wang, Wenbin and Sun, Xian and Li, Haifeng and Dang, Bo and Zhang, Yongjun and Yu, Yi and Yan, Junchi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={STAR: A First-Ever Dataset and a Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery}, 
+  year={2025},
+  volume={47},
+  number={3},
+  pages={1832-1849},
+  keywords={Stars;Annotations;Marine vehicles;Satellite images;Visualization;Object detection;Cognition;Benchmark testing;Complexity theory;Bridges;Large-size satellite imagery;object detection;relationship prediction;scene graph generation benchmark},
+  doi={10.1109/TPAMI.2024.3508072}}
 
-@article{li2024fine,
-  title={Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
-  author={Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin},
-  journal={arXiv preprint arXiv:2407.19259},
-  year={2024}}
-
-@article{luo2024sky,
+@InProceedings{SBP,
+author="Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin",
+editor="Leonardis, Ale{\v{s}} and Ricci, Elisa and Roth, Stefan and Russakovsky, Olga and Sattler, Torsten and Varol, G{\"u}l",
+title="Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction",
+booktitle="Computer Vision -- ECCV 2024",
+year="2025",
+publisher="Springer Nature Switzerland",
+pages="18--35"}
+	
+@article{SkySenseGPT,
     title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
     author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
     journal={arXiv preprint arXiv:2406.10100},
     year={2024}}
 
-@article{li2024learning,
+@article{HBD,
     title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
     author={Li, Yansheng and Luo, Junwei and Zhang, Yongjun and Tan, Yihua and Yu, Jin-Gang and Bai, Song},
     journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
@@ -109,15 +117,13 @@ If you find this work helpful for your research, please consider giving this rep
     year={2024},
     publisher={IEEE}}
 
-@inproceedings{deng2022hierarchical,
+@inproceedings{HML,
     title={Hierarchical Memory Learning for Fine-grained Scene Graph Generation},
     author={Deng, Youming and Li, Yansheng and Zhang, Yongjun and Xiang, Xiang and Wang, Jian and Chen, Jingdong and Ma, Jiayi},
     booktitle={European Conference on Computer Vision},
     pages={266--283},
     year={2022},
     organization={Springer}}
-
-
 ```
 ## Acknowledgment
 Our code is based on [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch), [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMRotate](https://github.com/open-mmlab/mmrotate), we sincerely thank them.
