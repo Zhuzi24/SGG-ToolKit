@@ -55,7 +55,8 @@ If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMR
 
 
 ## Examples of the Running Command
-You can download the pretrained model of HOD-Net for [OBB]()/[HBB]() type, which we used in the paper, then put them in Pretrained_Obj folder.\
+You can download the pretrained model of HOD-Net for [OBB]()/[HBB]() type 
+(backbone is Swin-L), which we used in the paper, then put them in Pretrained_Obj folder.\
 Follow the [Scripts]() to run the code, key commands for training and test scripts should be set up as follows：
 
 ### training script
