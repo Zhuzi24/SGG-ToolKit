@@ -7,7 +7,7 @@
 The official implementation of the paper "STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery".
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024-10-20 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025-03-05 :fire::fire::fire:
 
 📆 [**2024-10-20**] : We open-source the relationship prediction dataset and evaluation port of STAR, see "Download Links" in https://linlin-dev.github.io/project/STAR.html.
 
