@@ -54,6 +54,37 @@ Explanation of metrics in our toolkit and reported results for OBD and SGG are g
 If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMRotate](https://github.com/yangxue0827/STAR-MMRotate) and [STAR-MMDetection](https://github.com/Zhuzi24/STAR-MMDetection).
 
 
+## Examples of the Running Command
+You can download the pretrained model of HOD-Net for [OBB]()/[HBB]() type, which we used in the paper, then put them in Pretrained_Obj folder.\
+Follow the [Scripts]() to run the code, key commands for training and test scripts should be set up as follows：
+
+### training script
+
+    #!/bin/bash 
+    export CUDA_VISIBLE_DEVICES=2
+    export NUM_GUP=1
+    MODEL_NAME='LOBB_RPCM_predcls_train'
+
+    path="./Checkpoints/${MODEL_NAME}/"
+    mkdir -p "$path"
+
+    python3 \
+    tools/relation_train_net.py \
+    --config-file "configs/e2e_relation_X_101_32_8_FPN_1x_trans_base.yaml" \
+    --mm_config "configs/RSOBB/STAR_obb_predcls_sgcls.py" \
+    --mm_weight "Pretrained_Obj/OBB_Pre.pth" \
+    .
+    .
+    .
+    MODEL.ROI_RELATION_HEAD.USE_GT_BOX True \
+    MODEL.ROI_RELATION_HEAD.USE_GT_OBJECT_LABEL True \
+    MODEL.ROI_RELATION_HEAD.PREDICTOR RPCM \ # Switching Models
+    Type "Large_RS_OBB"  \  # Switching Type, Large_RS_OBB/Large_RS_HBB/...
+    filter_method "PPG" \ 
+    outpath "$path"\
+    
+
+
 ## 🔑 Relationship Prediction Weights
 
 | OBD Type | Relationship Prediction | Venue | PredCls | SGCls | SGDet |
@@ -72,6 +103,7 @@ If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMR
 |          | HETSGG                  | AAAI'23 | [HETSGG-PredCls]() | [HETSGG-SGCls]() | [HETSGG-SGDet]() |
 |          | PE-Net                  | CVPR'23 | [PE-Net-PredCls]() | [PE-Net-SGCls]() | [PE-Net-SGDet]() |
 |          | **RPCM (Ours)**         | TPAMI'25 | [RPCM-PredCls]() | [RPCM-SGCls]() | [RPCM-SGDet]() |
+
 
 
 ## 🖊️ Citation
