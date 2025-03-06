@@ -11,7 +11,7 @@ I've tried the environment many times and found that the torch version is fine d
 cd SGG_ToolKit
 
 # Creating a virtual environment via conda
-conda create --n SGG_ToolKit python=3.8  
+conda create -n SGG_ToolKit python=3.8  
 # Activate the virtual environment
 conda activate SGG_ToolKit
 
@@ -33,7 +33,7 @@ cd apex
 python setup.py install 
 
 # Some libraries to keep in mind for installation
- pip install torch-geometric==2.0.4  torch-scatter==2.0.7 torch-sparse==0.6.9
+ pip install torch-geometric==2.0.4  torch-scatter==2.0.7 torch-sparse==0.6.9 # The first installation may take a long time to compile, please be patient!
  pip install numpy==1.23.5
 
 # Overall compilation
