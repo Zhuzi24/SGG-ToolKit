@@ -109,14 +109,14 @@ and still run relation_train_net.py.
 |          | SHA                     | CVPR'22 | [SHA-PredCls]() | [SHA-SGCls]() | [SHA-SGDet]() |
 |          | HETSGG                  | AAAI'23 | [HETSGG-PredCls]() | [HETSGG-SGCls]() | [HETSGG-SGDet]() |
 |          | PE-Net                  | CVPR'23 | [PE-Net-PredCls]() | [PE-Net-SGCls]() | [PE-Net-SGDet]() |
-|          | **RPCM (Ours)**         | TPAMI'25 | [RPCM-PredCls]() | [RPCM-SGCls]() | [RPCM-SGDet]() |
+|          | **RPCM (Ours)**         | TPAMI'25 | [RPCM-PredCls](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) | [RPCM-SGCls](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) | [RPCM-SGDet](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) |
 | OBB      | IMP                     | CVPR'17 | [IMP-PredCls]() | [IMP-SGCls]() | [IMP-SGDet]() |
 |          | Motif                   | CVPR'18 | [Motif-PredCls]() | [Motif-SGCls]() | [Motif-SGDet]() |
 |          | GPS-Net                 | CVPR'20 | [GPS-Net-PredCls]() | [GPS-Net-SGCls]() | [GPS-Net-SGDet]() |
 |          | SHA                     | CVPR'22 | [SHA-PredCls]() | [SHA-SGCls]() | [SHA-SGDet]() |
 |          | HETSGG                  | AAAI'23 | [HETSGG-PredCls]() | [HETSGG-SGCls]() | [HETSGG-SGDet]() |
 |          | PE-Net                  | CVPR'23 | [PE-Net-PredCls]() | [PE-Net-SGCls]() | [PE-Net-SGDet]() |
-|          | **RPCM (Ours)**         | TPAMI'25 | [RPCM-PredCls]() | [RPCM-SGCls]() | [RPCM-SGDet]() |
+|          | **RPCM (Ours)**         | TPAMI'25 | [RPCM-PredCls](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) | [RPCM-SGCls](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) | [RPCM-SGDet](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) |
 
 
 
