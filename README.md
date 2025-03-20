@@ -59,6 +59,14 @@ You can download the pretrained model of HOD-Net for [OBB]()/[HBB]() type
 (backbone is Swin-L), which we used in the paper, then put them in Pretrained_Obj folder.\
 Follow the [Scripts]() to run the code, key commands for training and test scripts should be set up as follows：
 
+If you only need to test or validate, just use command:
+`Only_test True 
+test_outpath "$path"
+`or 
+`Only_val True 
+val_outpath "$path"`
+and still run relation_train_net.py.
+
 ### training script
 
     #!/bin/bash 
@@ -73,7 +81,7 @@ Follow the [Scripts]() to run the code, key commands for training and test scrip
     tools/relation_train_net.py \
     --config-file "configs/e2e_relation_X_101_32_8_FPN_1x_trans_base.yaml" \
     --mm_config "configs/RSOBB/STAR_obb_predcls_sgcls.py" \
-    --mm_weight "Pretrained_Obj/OBB_Pre.pth" \
+    --mm_weight "Pretrained_Obj/HBB_swin_L_OBD.pth" \  or OBB_swin_L_OBD.pth
     .
     .
     .
@@ -82,9 +90,14 @@ Follow the [Scripts]() to run the code, key commands for training and test scrip
     MODEL.ROI_RELATION_HEAD.PREDICTOR RPCM \ # Switching Models
     Type "Large_RS_OBB"  \  # Switching Type, Large_RS_OBB/Large_RS_HBB/...
     filter_method "PPG" \ 
-    outpath "$path"\
     
-
+If you only need to test or validate, assign the trained weight path to --mm_weight, and use command:
+`Only_test True 
+test_outpath "$path"
+`or 
+`Only_val True 
+val_outpath "$path"`
+and still run relation_train_net.py.
 
 ## 🔑 Relationship Prediction Weights
 
