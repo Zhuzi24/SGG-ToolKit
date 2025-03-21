@@ -55,17 +55,19 @@ If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMR
 
 
 ## Examples of the Running Command
-You can download the pretrained model of HOD-Net for [OBB]()/[HBB]() type 
+You can download the pretrained model of HOD-Net for [OBB](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS)/[HBB](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) type 
 (backbone is Swin-L), which we used in the paper, then put them in Pretrained_Obj folder.\
 Follow the [Scripts]() to run the code, key commands for training and test scripts should be set up as follows：
 
-If you only need to test or validate, just use command:
+The [Glove file](https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS) also needs to be downloaded and extracted into the folder SGG-ToolKit.
+
+<!-- If you only need to test or validate, just use command:
 `Only_test True 
 test_outpath "$path"
 `or 
 `Only_val True 
 val_outpath "$path"`
-and still run relation_train_net.py.
+and still run relation_train_net.py. -->
 
 ### training script
 
