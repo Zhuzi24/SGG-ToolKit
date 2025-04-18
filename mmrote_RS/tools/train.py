@@ -23,19 +23,10 @@ from mmrotate.utils import collect_env, get_root_logger, setup_multi_processes
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Train a detector')
-    #parser.add_argument('--config', default='/media/dell/DATA/WLL/RSSGG/mmrotate/configs/rotated_faster_rcnn/rotated_faster_rcnn_r50_fpn_1x_dota_le90.py', help='train config file path')
-    #parser.add_argument('--work-dir', default='/media/dell/DATA/WLL/RSSGG/mmrotate/work_dirs/zz-ms_rotated_faster_rcnn',help='the dir to save logs and models')
-    #parser.add_argument('--config', default='/media/dell/DATA/WLL/RSSGG/mmrotate/configs/oriented_rcnn/oriented_rcnn_swin_tiny_fpn_1x_dota_le90.py', help='train config file path')
-    #parser.add_argument('--work-dir', default='/media/dell/DATA/WLL/RSSGG/mmrotate/RS_LEAP_work_dirs/ms_oriented_rcnn_swin_zengqiang', help='the dir to save logs and models')
-    parser.add_argument('--config', default='/media/dell/data1/WTZ/SGG_Frame/mmrote_RS/configs/PRE_RS_LEAP/Large_oriented_rcnn_swin_large_fpn_1x_dota_le90_IMP22k.py', help='train config file path')
-    parser.add_argument('--work-dir', default='/media/dell/data1/WTZ/SGG_Frame/mmrote_RS/checkpoints/Large_PRE_RS', help='the dir to save logs and models')
-    #parser.add_argument('--config', default='/media/dell/DATA/WLL/RSSGG/mmrotate/configs/r3det/r3det_tiny_r50_fpn_1x_dota_oc.py', help='train config file path')
-    #parser.add_argument('--work-dir', default='/media/dell/DATA/WLL/RSSGG/mmrotate/work_dirs/ms_r3det',help='the dir to save logs and models')
-    #parser.add_argument('--config', default='/media/dell/DATA/WLL/RSSGG/mmrotate/configs/s2anet/s2anet_r50_fpn_1x_dota_le135.py', help='train config file path')
-    #parser.add_argument('--work-dir', default='/media/dell/DATA/WLL/RSSGG/mmrotate/work_dirs/ms_s2anet',help='the dir to save logs and models')
-    #parser.add_argument('--config', default='/media/dell/DATA/WLL/RSSGG/mmrotate/configs/rotated_fcos/rotated_fcos_r50_fpn_1x_dota_le90.py', help='train config file path')
-    #parser.add_argument('--work-dir', default='/media/dell/DATA/WLL/RSSGG/mmrotate/work_dirs/ms_fcos-gaijin111',help='the dir to save logs and models')
-    
+
+    parser.add_argument('--config', default='', help='train config file path')
+    parser.add_argument('--work-dir', default='', help='the dir to save logs and models')
+
     
     parser.add_argument(
         '--resume-from', help='the checkpoint file to resume from')

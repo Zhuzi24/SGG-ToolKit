@@ -24,12 +24,12 @@ def parse_args():
     """Parse parameters."""
     parser = argparse.ArgumentParser(
         description='MMDet test (and eval) a model')
-    parser.add_argument('--config', default='/media/dell/data1/WTZ/SGG_Frame/mmrote_RS/checkpoints/1219/oriented_rcnn_swin_large_fpn_1x_dota_le90_IMP22k.py', help='test config file path')
-    parser.add_argument('--checkpoint',default='/media/dell/data1/WTZ/SGG_Frame/mmrote_RS/checkpoints/1219/latest.pth', help='checkpoint file')
+    parser.add_argument('--config', default='', help='test config file path')
+    parser.add_argument('--checkpoint',default='', help='checkpoint file')
     parser.add_argument(
         '--work-dir',
         help='the directory to save the file containing evaluation metrics')
-    parser.add_argument('--out',default='/media/dell/data1/WTZ/SGG_Frame/mmrote_RS/checkpoints/1219/oriented_rcnn/outshiyan.pkl', help='output result file in pickle format')
+    parser.add_argument('--out',default='', help='output result file in pickle format')
     #parser.add_argument('--out', help='output result file in pickle format')
     parser.add_argument(
         '--fuse-conv-bn',

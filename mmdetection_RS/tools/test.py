@@ -24,13 +24,13 @@ from mmdet.utils import (build_ddp, build_dp, compat_cfg, get_device,
 def parse_args():
     parser = argparse.ArgumentParser(
         description='MMDet test (and eval) a model')
-    parser.add_argument('--config',default='/media/dell/data1/WTZ/SGG_Frame/mmdetection_RS/configs/RSLEAP/faster_rcnn_r50_fpn_1x_RS650.py', help='train config file path')
-    parser.add_argument('--checkpoint',default='/media/dell/data1/WTZ/SGG_Frame/mmdetection_RS/RSLEAP_HBB/epoch_15.pth', help='')
+    parser.add_argument('--config',default='', help='train config file path')
+    parser.add_argument('--checkpoint',default='', help='')
     parser.add_argument(
         '--work-dir',
         default='RSLEAP_HBB',
         help='the directory to save the file containing evaluation metrics')
-    parser.add_argument('--out',default="/media/dell/data1/WTZ/SGG_Frame/mmdetection_RS/RSLEAP_HBB/15.pkl", help='output result file in pickle format')
+    parser.add_argument('--out',default="", help='output result file in pickle format')
     parser.add_argument(
         '--fuse-conv-bn',
         action='store_true',
