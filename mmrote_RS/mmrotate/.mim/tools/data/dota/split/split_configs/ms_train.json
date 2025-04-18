@@ -1,0 +1,31 @@
+{
+  "nproc": 10,
+  "img_dirs": [
+    "/media/dell/data1/WTZ/SGG_Frame/data/nosplit/train/images/"
+  ],
+  "ann_dirs": [
+    "/media/dell/data1/WTZ/SGG_Frame/data/nosplit/train/annfiles/"
+  ],
+  "sizes": [
+    1024
+  ],
+  "gaps": [
+    500
+  ],
+  "rates": [
+    0.2,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "img_rate_thr": 0.6,
+  "iof_thr": 0.7,
+  "no_padding": false,
+  "padding_value": [
+    104,
+    116,
+    124
+  ],
+  "save_dir": "/media/dell/data1/WTZ/config_files_for_framework/SPLIT/train/",
+  "save_ext": ".png"
+}
