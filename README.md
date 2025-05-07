@@ -9,7 +9,7 @@ The official implementation of the paper TPAMI2025-"STAR: A First-Ever Dataset a
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025-04-18 :fire::fire::fire:
 
-📆 [**2025-04-18**] : We open-source the code of SGG-ToolKit and the whole SGG annotation files of STAR, see [DATASET.md](DATASET.md). And we also have open sourced annotation files for object detection test set, see [STAR_OBJ_TEST_ANO](https://huggingface.co/datasets/Zhuzi24/STAR/tree/main)
+📆 [**2025-04-18**] : We open-source the code of SGG-ToolKit and the whole SGG annotation files of STAR, see [DATASET.md](DATASET.md). And we also have open sourced annotation files for object detection test set, see [STAR_OBJ_TEST_ANO](https://huggingface.co/datasets/Zhuzi24/STAR/tree/main).
 
 📆 [**2024-10-20**] : We open-source the relationship prediction dataset and evaluation port of STAR, see "Download Links" in https://linlin-dev.github.io/project/STAR.html.
 
