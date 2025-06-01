@@ -51,7 +51,7 @@ pip install -v -e .
 Important:
 In order to run the HBB type of SGG, the following modifications are also required:
 Use mmdet (https://github.com/Zhuzi24/SGG-ToolKit/tree/main/lib_mmdet/mmdet) to replace mmdet in the virtual environment (/xxx/miniconda3/envs/SGG_ToolKit/lib/python3.8/site-packages/mmdet).
-/xxx/miniconda3/envs/SGG_Frame/lib/python3.8/site-packages/mmdet, usually found under the conda configuration file, an example of which is shown above.
+/xxx/miniconda3/envs/SGG_ToolKit/lib/python3.8/site-packages/mmdet, usually found under the conda configuration file, an example of which is shown above.
 
 ### Some of the issues that may arise (will be updated continuously)
 1. AssertionError: MMCV==1.7.1 is used but incompatible. Please install mmcv>=1.4.5, <=1.6.0.
