@@ -49,8 +49,8 @@ pip install -r requirements/build.txt
 pip install -v -e .
 
 Important:
-In order to run the HBB type SGG, the following modifications are also required:
-Use mmdet (https://github.com/Zhuzi24/SGG-ToolKit/tree/main/lib_mmdet/mmdet) to replace mmdet in the virtual environment (/xxx/miniconda3/envs/SGG_Frame/lib/python3.8/site-packages/mmdet).\
+In order to run the HBB type of SGG, the following modifications are also required:
+Use mmdet (https://github.com/Zhuzi24/SGG-ToolKit/tree/main/lib_mmdet/mmdet) to replace mmdet in the virtual environment (/xxx/miniconda3/envs/SGG_Frame/lib/python3.8/site-packages/mmdet).
 /xxx/miniconda3/envs/SGG_Frame/lib/python3.8/site-packages/mmdet, usually found under the conda configuration file, an example of which is shown above.
 
 ### Some of the issues that may arise (will be updated continuously)
