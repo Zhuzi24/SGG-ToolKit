@@ -24,11 +24,11 @@ pip install ninja yacs cython matplotlib tqdm opencv-python overrides shapely ip
 pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 
 # Compile cocoapi and apex, the same as https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch
-git clone https://github.com/cocodataset/cocoapi.git # Can try multiple times or check the network and if it fails
+download cocoapi.zip in https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS/tree/main, then unzip it # git clone https://github.com/cocodataset/cocoapi.git, can try multiple times or check the network and if it fails
 cd cocoapi/PythonAPI
 python setup.py build_ext install
 
-git clone https://github.com/NVIDIA/apex.git # Can try multiple times or check the network and if it fails
+download apex.zip in https://huggingface.co/Zhuzi24/STAR_OBJ_REL_WEIGHTS/tree/main, then unzip it # git clone https://github.com/NVIDIA/apex.git, can try multiple times or check the network and if it fails
 cd apex
 # "python setup.py install --cuda_ext --cpp_ext" will limit the specific version, designed to modify the setup.py, after trying it will work
 python setup.py install 
